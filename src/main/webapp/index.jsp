@@ -41,7 +41,7 @@
                     <span id="myIntro" class="w3-hide">W3.CSS: Introduction</span></p>
                 </div>                  
                 <header class="w3-container w3-theme" style="padding:64px 32px">
-                    <h1 class="w3-xxxlarge">W3.Scholffy</h1>
+                    <h1 class="w3-xxxlarge">W3.Scho</h1>
                 </header>                  
                 <div class="w3-container" style="padding:32px">                  
                     <h2>DEVOps</h2>                  
