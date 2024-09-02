@@ -53,7 +53,7 @@
                         <li>Speeds up mobile HTML apps.</li>
                         <li>Provides CSS equality for all devices. PC, laptop, tablet, and mobile:</li>
                         <li>Adding more stuff to the list</li>
-                        <li>And more text</li>
+                        <li>And more stuffz</li>
                     </ul>
                     <br>
                     <img src="./img_responsive.png" style="width:100%" alt="Responsive">                  
